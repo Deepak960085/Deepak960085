@@ -34,3 +34,11 @@ This repository contains the product and technical blueprint for a local-only me
 - **Playback Engine**: ExoPlayer bridge on Android, AVPlayer bridge on iOS
 - **Architecture**: MVVM + Repository pattern
 - **Database**: SQLite (`sqflite`) for media index, resume positions, and playlists
+
+
+## How to Run in VS Code
+
+For setup and run instructions, see `docs/run-in-vscode.md`.
+
+- If you only need to review deliverables, open this folder in VS Code and read the markdown files.
+- If you want to start building immediately, follow the Flutter quick-start steps in that guide.
